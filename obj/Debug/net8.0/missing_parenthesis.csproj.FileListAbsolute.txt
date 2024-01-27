@@ -1,0 +1,14 @@
+C:\Users\Mario\Documents\projects\missing_parenthesis\bin\Debug\net8.0\missing_parenthesis.exe
+C:\Users\Mario\Documents\projects\missing_parenthesis\bin\Debug\net8.0\missing_parenthesis.deps.json
+C:\Users\Mario\Documents\projects\missing_parenthesis\bin\Debug\net8.0\missing_parenthesis.runtimeconfig.json
+C:\Users\Mario\Documents\projects\missing_parenthesis\bin\Debug\net8.0\missing_parenthesis.dll
+C:\Users\Mario\Documents\projects\missing_parenthesis\bin\Debug\net8.0\missing_parenthesis.pdb
+C:\Users\Mario\Documents\projects\missing_parenthesis\obj\Debug\net8.0\missing_parenthesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\projects\missing_parenthesis\obj\Debug\net8.0\missing_parenthesis.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\projects\missing_parenthesis\obj\Debug\net8.0\missing_parenthesis.AssemblyInfo.cs
+C:\Users\Mario\Documents\projects\missing_parenthesis\obj\Debug\net8.0\missing_parenthesis.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\projects\missing_parenthesis\obj\Debug\net8.0\missing_parenthesis.dll
+C:\Users\Mario\Documents\projects\missing_parenthesis\obj\Debug\net8.0\refint\missing_parenthesis.dll
+C:\Users\Mario\Documents\projects\missing_parenthesis\obj\Debug\net8.0\missing_parenthesis.pdb
+C:\Users\Mario\Documents\projects\missing_parenthesis\obj\Debug\net8.0\missing_parenthesis.genruntimeconfig.cache
+C:\Users\Mario\Documents\projects\missing_parenthesis\obj\Debug\net8.0\ref\missing_parenthesis.dll
